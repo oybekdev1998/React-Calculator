@@ -2,6 +2,7 @@
 #Stack:\
 -React;\
 -React-hooks;\
+-React-components;
 
 # Getting Started with Create React App
 
